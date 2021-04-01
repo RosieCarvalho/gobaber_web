@@ -1,0 +1,5 @@
+TRATAMENTO DE FORMULARIOS
+-> yarn add @unform/core @unform/web (para versao web) ou unform/mobile
+VALIDACAO DE FORMULARIOS
+-> yarn add yup
+-> yarn add @types/yup
