@@ -1,5 +1,14 @@
 TRATAMENTO DE FORMULARIOS
 -> yarn add @unform/core @unform/web (para versao web) ou unform/mobile
+
 VALIDACAO DE FORMULARIOS
 -> yarn add yup
 -> yarn add @types/yup
+
+ANIMAÇÃO
+>https://www.react-spring.io/
+-> yarn add react-spring
+
+ROTAS
+-> yarn add react-router-dom
+-> yarn add @types/react-router-dom -D
